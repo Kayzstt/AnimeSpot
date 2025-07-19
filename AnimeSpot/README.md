@@ -1,4 +1,4 @@
-# Projet MOBG5
+# Projet AnimeSpot
 
 Ce dépôt contient les sources du projet **AnimeSpot**.
 
