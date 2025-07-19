@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AnimeSpot</string>
+    <string name="my_name">Aimen El Mahsini</string>
+    <string name="my_id">id : 56149</string>
+    <string name="my_class">E12</string>
+    <string name="add_fav">Add to Favorites</string>
+    <string name="watch_trail">Watch Trailer</string>
+    <string name="avg_score">Average Score :</string>
+    <string name="release">Release on : </string>
+    <string name="your_fav">Your favorite animes</string>
+    <string name="no_fav">No favorites available</string>
+    <string name="anime_rel">Anime Release of this week</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Don\'t have an account? Sign up</string>
+    <string name="select_profil">Select a Profile Picture</string>
+    <string name="my_profil">My Profile</string>
+</resources>

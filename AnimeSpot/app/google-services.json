@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838690340764",
+    "project_id": "animespot-3818e",
+    "storage_bucket": "animespot-3818e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838690340764:android:fc64a26c14123c6b9f1259",
+        "android_client_info": {
+          "package_name": "com.example.animespot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99mi0m6m1_6xxDSgRCvtCUjdLPF2Wmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
